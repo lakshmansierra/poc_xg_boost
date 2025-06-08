@@ -13,7 +13,9 @@
 | `Type`             | ✅            | `New Business`, `Renewal`, etc. — strong categorical indicator.                          |
 | `Lead_Source`      | ✅            | Source like `RFP`, `Conference`, `Web` — meaningful categorical.                         |
 | `State`            | ✅            | Geographic patterns could influence win rates.                                           |
-| `Zip_Code`         | ✅ (optional) | Use only if you can extract something useful like region clusters.                       |
-| `Payment_Terms`    | ✅ (optional) | Could be useful if terms are known to correlate with win rate. Consider label encoding.  |
 | `Stage`                                              | Used only for splitting data, not for training     |
 | `Description`, `Emails`, `Phone`, `Opportunity_Name` | Drop or do NLP separately                          |
+| `Stage` | Only used for splitting the data (not as a feature) |
+| `Probability` | Target variable (used only for training set) |
+| `Zip_Code`    | Use only if you can extract something useful like region clusters.
+| `Payment_Terms` | Could be useful if terms are known to correlate with win rate. Consider label encoding. 
