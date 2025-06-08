@@ -1,0 +1,72 @@
+sales_order,stage,Actual,Predicted
+5709,Decision Makers,70,99.9991
+5710,Proposal/Price Quote,65,99.9991
+5712,Negotiation/Review,85,0.01331171
+5713,Perception Analysis,20,0.01331171
+5714,Value Proposition,45,99.9991
+5715,Qualification,25,99.9991
+5717,Needs Analysis,30,0.01331171
+5718,Decision Makers,75,99.9991
+5719,Proposal/Price Quote,60,99.9991
+5721,Negotiation/Review,85,0.01331171
+5722,Perception Analysis,25,0.01331171
+5723,Value Proposition,40,99.9991
+5724,Qualification,30,99.9991
+5726,Needs Analysis,30,0.01331171
+5727,Decision Makers,70,99.9991
+5728,Proposal/Price Quote,65,99.9991
+5730,Negotiation/Review,80,0.01331171
+5731,Perception Analysis,20,0.01331171
+5732,Value Proposition,45,99.9991
+5733,Qualification,25,99.9991
+5735,Needs Analysis,35,0.01331171
+5736,Decision Makers,75,99.9991
+5737,Proposal/Price Quote,60,99.9991
+5739,Negotiation/Review,90,0.01331171
+5740,Perception Analysis,20,0.01331171
+5741,Value Proposition,40,99.9991
+5742,Qualification,30,99.9991
+5744,Needs Analysis,35,0.01331171
+5745,Decision Makers,70,99.9991
+5746,Proposal/Price Quote,65,99.9991
+5748,Negotiation/Review,80,0.01331171
+5749,Perception Analysis,15,0.01331171
+5750,Value Proposition,45,99.9991
+5751,Qualification,25,99.9991
+5753,Needs Analysis,30,0.01331171
+5755,Decision Makers,75,99.9991
+5756,Proposal/Price Quote,60,99.9991
+5758,Negotiation/Review,85,0.01331171
+5759,Perception Analysis,20,0.01331171
+5760,Value Proposition,40,99.9991
+5761,Qualification,30,99.9991
+5763,Needs Analysis,35,0.01331171
+5765,Decision Makers,70,99.9991
+5766,Proposal/Price Quote,65,99.9991
+5768,Negotiation/Review,85,0.01331171
+5769,Perception Analysis,15,0.01331171
+5770,Value Proposition,45,99.9991
+5771,Qualification,25,99.9991
+5773,Needs Analysis,30,0.01331171
+5774,Needs Analysis,30,0.01331171
+5776,Proposal/Price Quote,60,99.9991
+5777,Qualification,20,99.9991
+5778,Negotiation/Review,80,0.01331171
+5781,Value Proposition,40,99.9991
+5782,Needs Analysis,25,99.9991
+5783,Perception Analysis,15,0.01331171
+5784,Decision Makers,70,0.01331171
+5785,Negotiation/Review,90,99.9991
+5786,Proposal/Price Quote,65,99.9991
+5788,Decision Makers,75,0.01331171
+5789,Perception Analysis,20,0.01331171
+5790,Qualification,35,99.9991
+5791,Value Proposition,45,99.9991
+5793,Needs Analysis,30,0.01331171
+5795,Decision Makers,70,99.9991
+5796,Proposal/Price Quote,60,99.9991
+5798,Negotiation/Review,85,0.01331171
+5799,Perception Analysis,25,0.01331171
+5800,Value Proposition,40,99.9991
+5801,Qualification,20,99.9991
+5803,Needs Analysis,35,0.01331171
