@@ -1,72 +1,72 @@
 sales_order,stage,Actual,Predicted
-5709,Decision Makers,70,52.455616
-5710,Proposal/Price Quote,65,17.717596
-5712,Negotiation/Review,85,53.618717
-5713,Perception Analysis,20,51.469036
-5714,Value Proposition,45,-1.0227274
-5715,Qualification,25,3.4656625
-5717,Needs Analysis,30,17.915543
-5718,Decision Makers,75,30.059286
-5719,Proposal/Price Quote,60,39.91373
-5721,Negotiation/Review,85,27.465069
-5722,Perception Analysis,25,64.96093
-5723,Value Proposition,40,46.929306
-5724,Qualification,30,48.74339
-5726,Needs Analysis,30,17.248314
-5727,Decision Makers,70,13.704345
-5728,Proposal/Price Quote,65,52.909737
-5730,Negotiation/Review,80,55.25483
-5731,Perception Analysis,20,40.4807
-5732,Value Proposition,45,-1.876173
-5733,Qualification,25,18.265318
-5735,Needs Analysis,35,57.807613
-5736,Decision Makers,75,10.661234
-5737,Proposal/Price Quote,60,27.491089
-5739,Negotiation/Review,90,60.272457
-5740,Perception Analysis,20,64.63151
-5741,Value Proposition,40,48.517662
-5742,Qualification,30,30.293076
-5744,Needs Analysis,35,48.61091
-5745,Decision Makers,70,27.464687
-5746,Proposal/Price Quote,65,60.037437
-5748,Negotiation/Review,80,57.725945
-5749,Perception Analysis,15,49.82789
-5750,Value Proposition,45,59.559536
-5751,Qualification,25,44.688652
-5753,Needs Analysis,30,27.383394
-5755,Decision Makers,75,33.699482
-5756,Proposal/Price Quote,60,53.498302
-5758,Negotiation/Review,85,48.873123
-5759,Perception Analysis,20,39.806038
-5760,Value Proposition,40,29.58515
-5761,Qualification,30,64.949196
-5763,Needs Analysis,35,0.8756924
-5765,Decision Makers,70,24.704447
-5766,Proposal/Price Quote,65,14.053696
-5768,Negotiation/Review,85,51.828045
-5769,Perception Analysis,15,53.618717
-5770,Value Proposition,45,48.43194
-5771,Qualification,25,30.059286
-5773,Needs Analysis,30,54.178394
-5774,Needs Analysis,30,100.09572
-5776,Proposal/Price Quote,60,101.78862
-5777,Qualification,20,88.82907
-5778,Negotiation/Review,80,49.177296
-5781,Value Proposition,40,13.704345
-5782,Needs Analysis,25,24.796244
-5783,Perception Analysis,15,73.24305
-5784,Decision Makers,70,52.64015
-5785,Negotiation/Review,90,99.88471
-5786,Proposal/Price Quote,65,53.62326
-5788,Decision Makers,75,41.55799
-5789,Perception Analysis,20,6.9072437
-5790,Qualification,35,52.57603
-5791,Value Proposition,45,101.29233
-5793,Needs Analysis,30,10.6274805
-5795,Decision Makers,70,87.22117
-5796,Proposal/Price Quote,60,53.964405
-5798,Negotiation/Review,85,26.940435
-5799,Perception Analysis,25,17.915543
-5800,Value Proposition,40,52.032978
-5801,Qualification,20,-5.8286366
-5803,Needs Analysis,35,49.710953
+5709,Decision Makers,70,61.42499
+5710,Proposal/Price Quote,65,50.94671
+5712,Negotiation/Review,85,68.31088
+5713,Perception Analysis,20,46.392212
+5714,Value Proposition,45,65.13215
+5715,Qualification,25,48.41975
+5717,Needs Analysis,30,47.268555
+5718,Decision Makers,75,62.251953
+5719,Proposal/Price Quote,60,75.269264
+5721,Negotiation/Review,85,67.96366
+5722,Perception Analysis,25,61.97655
+5723,Value Proposition,40,56.877155
+5724,Qualification,30,69.737755
+5726,Needs Analysis,30,44.887054
+5727,Decision Makers,70,57.946075
+5728,Proposal/Price Quote,65,59.257763
+5730,Negotiation/Review,80,63.69695
+5731,Perception Analysis,20,44.461075
+5732,Value Proposition,45,58.6681
+5733,Qualification,25,48.39655
+5735,Needs Analysis,35,70.097145
+5736,Decision Makers,75,62.845005
+5737,Proposal/Price Quote,60,73.91456
+5739,Negotiation/Review,90,59.317078
+5740,Perception Analysis,20,64.893654
+5741,Value Proposition,40,55.392155
+5742,Qualification,30,68.817116
+5744,Needs Analysis,35,47.12488
+5745,Decision Makers,70,57.946075
+5746,Proposal/Price Quote,65,66.35281
+5748,Negotiation/Review,80,65.630394
+5749,Perception Analysis,15,59.406578
+5750,Value Proposition,45,74.38349
+5751,Qualification,25,63.714954
+5753,Needs Analysis,30,59.09257
+5755,Decision Makers,75,68.22646
+5756,Proposal/Price Quote,60,61.42499
+5758,Negotiation/Review,85,50.508587
+5759,Perception Analysis,20,69.59459
+5760,Value Proposition,40,71.109795
+5761,Qualification,30,68.8336
+5763,Needs Analysis,35,49.43724
+5765,Decision Makers,70,44.764046
+5766,Proposal/Price Quote,65,75.269264
+5768,Negotiation/Review,85,59.34543
+5769,Perception Analysis,15,61.42499
+5770,Value Proposition,45,50.741653
+5771,Qualification,25,68.47463
+5773,Needs Analysis,30,67.79572
+5774,Needs Analysis,30,56.126156
+5776,Proposal/Price Quote,60,58.400845
+5777,Qualification,20,58.47684
+5778,Negotiation/Review,80,54.69617
+5781,Value Proposition,40,68.467094
+5782,Needs Analysis,25,50.94671
+5783,Perception Analysis,15,50.539978
+5784,Decision Makers,70,54.19986
+5785,Negotiation/Review,90,64.601
+5786,Proposal/Price Quote,65,56.505173
+5788,Decision Makers,75,65.86358
+5789,Perception Analysis,20,40.6099
+5790,Qualification,35,59.406578
+5791,Value Proposition,45,43.499977
+5793,Needs Analysis,30,60.303856
+5795,Decision Makers,70,60.222336
+5796,Proposal/Price Quote,60,65.32788
+5798,Negotiation/Review,85,69.55572
+5799,Perception Analysis,25,46.870377
+5800,Value Proposition,40,50.910435
+5801,Qualification,20,51.18955
+5803,Needs Analysis,35,53.96945

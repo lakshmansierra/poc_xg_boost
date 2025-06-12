@@ -1,6 +1,6 @@
 Feature,Mean SHAP Value
-days_to_close,16.283821
-Lead_Source,8.99129
-State,8.254278
-Amount,3.1110828
-Contact_Title,3.0494561
+Lead_Source,5.574929
+State,5.5027285
+Company_Industry,2.9127774
+days_to_close,1.5128992
+Type,0.71768385
