@@ -1,0 +1,1097 @@
+Sales_Order,Stage,Amount,Probability,Sales_Person,Company_Industry,Contact_Title,Type,Lead_Source,State,days_to_close
+5708,Closed Lost,255000,0,Alex Rodriguez,Healthcare,Medical Director,New Business,Healthcare Conference,WA,45
+5709,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+5710,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5711,Closed Won,135000,100,Emma Wilson,Retail,Marketing Director,New Business,Trade Show,OH,36
+5712,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5713,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+5714,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+5715,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+5716,Closed Won,235000,100,Emma Wilson,Healthcare,CISO,Upgrade,Healthcare Conference,TN,36
+5717,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+5718,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+5719,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+5720,Closed Won,225000,100,Emma Wilson,Financial Services,Digital Banking Manager,Upgrade,Existing Customer,NC,38
+5721,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+5722,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+5723,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+5724,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+5725,Closed Won,175000,100,Emma Wilson,Healthcare,Security Director,Upgrade,Healthcare Conference,MN,40
+5726,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+5727,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5728,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+5729,Closed Won,85000,100,Emma Wilson,Business Services,Executive Director,New Business,Partner Referral,NE,51
+5730,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+5731,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+5732,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+5733,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+5734,Closed Won,195000,100,Emma Wilson,Financial Services,Security Officer,Upgrade,Existing Customer,WA,36
+5735,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+5736,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+5737,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+5738,Closed Won,145000,100,Emma Wilson,Automotive,General Manager,New Business,Industry Event,MS,35
+5739,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+5740,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+5741,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+5742,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+5743,Closed Won,265000,100,Emma Wilson,Healthcare,Network Director,Upgrade,Existing Customer,NE,56
+5744,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+5745,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+5746,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+5747,Closed Won,115000,100,Emma Wilson,Financial Services,Security Officer,Upgrade,Existing Customer,ME,50
+5748,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+5749,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+5750,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+5751,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+5752,Closed Won,295000,100,Emma Wilson,Utilities,Operations Director,New Business,RFP,HI,76
+5753,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+5754,Closed Lost,145000,0,Alex Rodriguez,Hospitality,General Manager,New Business,Cold Call,ID,61
+5755,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+5756,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+5757,Closed Won,72000,100,Emma Wilson,Retail,Executive Director,New Business,Industry Event,RI,34
+5758,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+5759,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+5760,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+5761,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+5762,Closed Won,135000,100,Emma Wilson,Healthcare,IT Director,New Business,Webinar,RI,70
+5763,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+5764,Closed Lost,95000,0,Alex Rodriguez,Financial Services,Relationship Director,Upgrade,Existing Customer,VT,44
+5765,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+5766,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5767,Closed Won,115000,100,Emma Wilson,Hospitality,General Manager,New Business,Referral,IA,35
+5768,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+5769,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+5770,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+5771,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+5772,Closed Won,295000,100,Emma Wilson,Government,Health Director,New Business,RFP,OK,71
+5773,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+5774,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+5775,Closed Won,85000,100,Sarah Johnson,Manufacturing,CIO,Renewal,Existing Customer,AK,34
+5776,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+5777,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+5778,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+5779,Closed Lost,95000,0,Alex Rodriguez,Transportation,Project Manager,New Business,Conference,CA,80
+5780,Closed Won,42000,100,Sarah Johnson,Education,IT Procurement,New Business,Email Campaign,MD,28
+5781,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+5782,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+5783,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+5784,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+5785,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+5786,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5787,Closed Won,88000,100,Emma Wilson,Government,Urban Planning Director,New Business,RFP,WI,66
+5788,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+5789,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+5790,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5791,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+5792,Closed Won,65000,100,Emma Wilson,Retail,Retail Operations,New Business,Website,SD,33
+5793,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+5794,Closed Lost,78000,0,Alex Rodriguez,Media,Production Manager,New Business,LinkedIn,OH,78
+5795,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+5796,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+5797,Closed Won,92000,100,Emma Wilson,Healthcare,Facilities Director,New Business,Referral,WV,35
+5798,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+5799,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+5800,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+5801,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+5802,Closed Won,68000,100,Emma Wilson,Non-profit,Exhibitions Director,New Business,Conference,NY,56
+5803,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+5804,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+5805,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5806,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+5807,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+5808,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+5809,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5810,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+5811,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+5812,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5813,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+5814,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+5815,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5816,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+5817,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+5818,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+5819,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+5820,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+5821,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+5822,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+5823,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5824,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+5825,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+5826,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5827,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5828,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5829,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+5830,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5831,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+5832,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+5833,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+5834,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5835,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+5836,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+5837,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+5838,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+5839,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+5840,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+5841,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+5842,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+5843,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+5844,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+5845,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5846,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+5847,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+5848,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5849,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+5850,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+5851,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+5852,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+5853,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+5854,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+5855,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5856,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+5857,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+5858,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+5859,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+5860,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+5861,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+5862,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5863,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+5864,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5865,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+5866,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+5867,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5868,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5869,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+5870,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+5871,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+5872,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+5873,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+5874,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+5875,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+5876,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5877,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+5878,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+5879,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+5880,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+5881,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+5882,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+5883,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+5884,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+5885,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+5886,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+5887,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+5888,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+5889,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+5890,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+5891,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+5892,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+5893,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+5894,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+5895,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+5896,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+5897,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+5898,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5899,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+5900,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5901,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+5902,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+5903,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+5904,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5905,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+5906,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+5907,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+5908,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+5909,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+5910,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5911,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+5912,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+5913,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+5914,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+5915,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+5916,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+5917,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+5918,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+5919,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+5920,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+5921,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+5922,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+5923,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+5924,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5925,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+5926,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+5927,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+5928,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+5929,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5930,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+5931,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+5932,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+5933,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+5934,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5935,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+5936,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5937,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5938,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+5939,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+5940,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5941,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5942,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+5943,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+5944,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+5945,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5946,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+5947,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+5948,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5949,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+5950,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5951,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+5952,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+5953,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+5954,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+5955,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+5956,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+5957,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+5958,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5959,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5960,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+5961,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5962,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5963,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5964,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+5965,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+5966,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+5967,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+5968,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+5969,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+5970,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+5971,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+5972,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+5973,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+5974,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+5975,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+5976,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+5977,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+5978,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+5979,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+5980,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+5981,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+5982,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+5983,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5984,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+5985,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+5986,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+5987,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+5988,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+5989,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+5990,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+5991,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+5992,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+5993,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+5994,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+5995,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+5996,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+5997,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+5998,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+5999,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+6000,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6001,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6002,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6003,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+6004,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6005,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6006,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6007,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6008,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6009,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6010,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6011,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6012,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6013,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6014,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6015,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6016,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6017,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6018,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6019,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6020,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6021,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6022,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6023,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6024,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6025,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6026,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6027,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6028,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6029,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6030,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6031,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6032,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+6033,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6034,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6035,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6036,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6037,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6038,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6039,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6040,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6041,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6042,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6043,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6044,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6045,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6046,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6047,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6048,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6049,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6050,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6051,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6052,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6053,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6054,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6055,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6056,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6057,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6058,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6059,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6060,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6061,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6062,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6063,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6064,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6065,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6066,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6067,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6068,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+6069,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6070,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6071,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6072,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6073,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6074,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6075,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6076,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6077,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6078,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6079,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6080,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6081,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6082,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6083,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6084,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6085,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6086,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6087,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6088,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6089,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6090,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6091,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6092,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6093,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6094,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6095,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6096,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6097,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6098,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6099,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6100,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6101,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6102,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6103,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6104,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6105,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6106,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6107,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6108,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6109,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6110,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6111,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6112,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6113,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6114,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6115,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6116,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6117,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6118,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6119,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6120,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6121,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6122,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6123,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6124,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6125,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6126,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6127,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6128,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6129,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6130,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6131,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6132,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6133,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6134,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6135,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6136,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6137,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6138,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6139,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6140,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6141,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6142,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6143,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6144,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6145,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6146,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6147,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6148,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6149,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6150,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6151,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6152,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6153,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6154,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6155,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6156,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6157,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6158,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6159,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6160,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6161,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6162,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6163,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6164,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6165,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6166,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6167,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6168,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6169,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6170,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6171,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6172,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6173,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6174,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6175,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6176,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6177,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6178,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6179,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6180,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6181,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6182,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6183,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6184,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6185,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6186,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6187,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6188,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6189,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6190,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6191,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6192,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6193,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6194,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6195,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6196,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6197,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6198,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6199,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6200,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6201,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6202,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6203,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6204,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6205,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6206,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6207,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6208,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6209,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6210,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6211,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6212,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6213,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6214,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+6215,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6216,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6217,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6218,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6219,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6220,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6221,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6222,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6223,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6224,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6225,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6226,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6227,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6228,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6229,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6230,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6231,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6232,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6233,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6234,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6235,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6236,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6237,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6238,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6239,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6240,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6241,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6242,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6243,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6244,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6245,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6246,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6247,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6248,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6249,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6250,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6251,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6252,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6253,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6254,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6255,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+6256,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6257,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6258,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6259,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6260,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6261,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6262,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6263,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6264,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6265,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6266,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6267,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6268,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6269,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6270,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6271,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6272,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6273,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6274,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6275,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6276,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6277,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6278,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6279,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6280,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6281,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6282,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6283,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6284,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6285,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6286,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6287,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6288,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6289,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6290,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6291,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6292,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6293,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6294,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6295,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+6296,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6297,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6298,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6299,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6300,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+6301,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6302,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6303,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6304,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6305,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6306,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6307,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6308,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6309,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6310,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6311,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6312,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6313,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6314,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6315,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6316,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6317,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6318,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6319,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6320,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6321,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6322,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6323,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6324,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+6325,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6326,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6327,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6328,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6329,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6330,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6331,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6332,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6333,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6334,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6335,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6336,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6337,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6338,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6339,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6340,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+6341,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6342,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6343,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6344,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6345,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6346,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6347,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6348,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6349,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6350,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6351,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6352,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6353,Negotiation/Review,110000,90,Sarah Johnson,Financial Services,Managing Partner,Renewal,Existing Customer,SC,35
+6354,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6355,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6356,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6357,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+6358,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6359,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6360,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6361,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6362,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6363,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6364,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6365,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6366,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6367,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6368,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6369,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6370,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6371,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6372,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6373,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6374,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6375,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6376,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6377,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6378,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6379,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6380,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+6381,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6382,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6383,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6384,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6385,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6386,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6387,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6388,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6389,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6390,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6391,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6392,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6393,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6394,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6395,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6396,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6397,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6398,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6399,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6400,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6401,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6402,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6403,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6404,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6405,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6406,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6407,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6408,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6409,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6410,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6411,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6412,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6413,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6414,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6415,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6416,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6417,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6418,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6419,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6420,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6421,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6422,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6423,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6424,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6425,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6426,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6427,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6428,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6429,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6430,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6431,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6432,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6433,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6434,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6435,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6436,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6437,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6438,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6439,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6440,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6441,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6442,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6443,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6444,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6445,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6446,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6447,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6448,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6449,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6450,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6451,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6452,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6453,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6454,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6455,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6456,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6457,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6458,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6459,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6460,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6461,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6462,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6463,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6464,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6465,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6466,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6467,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6468,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6469,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6470,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6471,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6472,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6473,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6474,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6475,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6476,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6477,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6478,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6479,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6480,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6481,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6482,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6483,Qualification,185000,25,Michael Chang,Forestry,Operations Director,New Business,Industry Event,MS,133
+6484,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6485,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6486,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6487,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6488,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6489,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6490,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6491,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6492,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6493,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6494,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6495,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6496,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6497,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6498,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6499,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6500,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6501,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6502,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6503,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6504,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6505,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6506,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6507,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6508,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6509,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6510,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+6511,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6512,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6513,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6514,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6515,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6516,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6517,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6518,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6519,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6520,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6521,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6522,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6523,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+6524,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6525,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6526,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6527,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6528,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6529,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6530,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6531,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6532,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6533,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6534,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6535,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6536,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6537,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6538,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6539,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6540,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6541,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6542,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6543,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6544,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6545,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+6546,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6547,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6548,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6549,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6550,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6551,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6552,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6553,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6554,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6555,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6556,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6557,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6558,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6559,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6560,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6561,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+6562,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6563,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6564,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6565,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6566,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6567,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6568,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6569,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6570,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6571,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6572,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6573,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6574,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6575,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+6576,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6577,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6578,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6579,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6580,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6581,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6582,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6583,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6584,Proposal/Price Quote,175000,65,Michael Chang,Education,Curriculum Director,New Business,Education Conference,AZ,106
+6585,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6586,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6587,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6588,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6589,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6590,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6591,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6592,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6593,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6594,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6595,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6596,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6597,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6598,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6599,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6600,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6601,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6602,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6603,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6604,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6605,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6606,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6607,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6608,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6609,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6610,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6611,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+6612,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6613,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6614,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6615,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6616,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6617,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6618,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6619,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6620,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6621,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6622,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6623,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6624,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6625,Needs Analysis,295000,30,David Martinez,Hospitality,Operations Director,New Business,Industry EventOPP-2024-0071,VA,158
+6626,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6627,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6628,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6629,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6630,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6631,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6632,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6633,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6634,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6635,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6636,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6637,Perception Analysis,275000,20,Alex Rodriguez,Transportation,Terminal Manager,New Business,LinkedIn,FL,174
+6638,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6639,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6640,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6641,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6642,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6643,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6644,Needs Analysis,255000,35,David Martinez,Energy,Operations Manager,New Business,Industry Event,PA,128
+6645,Needs Analysis,225000,30,David Martinez,Automotive,General Manager,New Business,Industry Event,CT,96
+6646,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6647,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6648,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6649,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6650,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6651,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6652,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6653,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6654,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6655,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6656,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6657,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6658,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6659,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6660,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6661,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6662,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6663,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+6664,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6665,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6666,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6667,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6668,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6669,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6670,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6671,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6672,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6673,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6674,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6675,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6676,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6677,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6678,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6679,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6680,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6681,Qualification,225000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Industry Event,ND,143
+6682,Value Proposition,115000,40,Sarah Johnson,Marketing,Account Director,New Business,Webinar,SC,102
+6683,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6684,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+6685,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6686,Qualification,215000,25,Michael Chang,Automotive,General Manager,New Business,Cold Call,IL,143
+6687,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6688,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6689,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6690,Value Proposition,165000,40,Sarah Johnson,Hospitality,Reservations Manager,New Business,Trade Show,WV,158
+6691,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6692,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6693,Decision Makers,135000,75,David Martinez,Food & Beverage,Inventory Manager,New Business,Industry Event,IN,51
+6694,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6695,Perception Analysis,475000,25,Alex Rodriguez,Healthcare,Network Administrator,Upgrade,Industry Event,OR,148
+6696,Value Proposition,195000,45,Sarah Johnson,Education,IT Director,New Business,Education Conference,VT,158
+6697,Proposal/Price Quote,385000,60,Michael Chang,Government,Records Manager,New Business,RFP,ME,137
+6698,Negotiation/Review,265000,80,David Martinez,Transportation,Logistics Director,New Business,Partner Referral,KY,86
+6699,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6700,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6701,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6702,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6703,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+6704,Perception Analysis,285000,25,Alex Rodriguez,Government,Transportation Director,New Business,RFP,AL,203
+6705,Proposal/Price Quote,425000,60,Michael Chang,Education,IT Director,New Business,Education Conference,KS,118
+6706,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6707,Perception Analysis,320000,15,Alex Rodriguez,Government,Records Administrator,New Business,RFP,NM,184
+6708,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6709,Decision Makers,215000,75,Sarah Johnson,Healthcare,Analytics Director,New Business,Conference,ND,86
+6710,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6711,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6712,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6713,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6714,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6715,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6716,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6717,Decision Makers,195000,70,Sarah Johnson,Healthcare,Analytics Director,New Business,Healthcare Conference,MA,92
+6718,Needs Analysis,275000,35,David Martinez,Transportation,Operations Director,New Business,Partner ReferralOPP-2024-0061,HI,143
+6719,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6720,Negotiation/Review,320000,80,David Martinez,Healthcare,CTO,New Business,Partner Referral,WY,82
+6721,Proposal/Price Quote,325000,60,Michael Chang,Education,Technology Director,New Business,Education Conference,CO,118
+6722,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6723,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6724,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6725,Qualification,195000,30,Michael Chang,Manufacturing,Supply Chain Manager,New Business,Partner Referral,CT,116
+6726,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6727,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6728,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6729,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6730,Proposal/Price Quote,275000,65,Michael Chang,Financial Services,Client Relations Director,New Business,Industry Event,UT,117
+6731,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6732,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6733,Negotiation/Review,235000,80,David Martinez,Manufacturing,Quality Director,New Business,Trade Show,FL,81
+6734,Decision Makers,245000,70,Sarah Johnson,Healthcare,Telehealth Director,New Business,Industry Event,VT,86
+6735,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6736,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6737,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6738,Negotiation/Review,285000,90,David Martinez,Financial Services,Security Officer,New Business,Webinar,WI,87
+6739,Perception Analysis,315000,20,Alex Rodriguez,Utilities,Utilities Director,New Business,RFP,LA,194
+6740,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+6741,Qualification,75000,20,Emma Wilson,Retail,Operations Manager,New Business,Website,IL,61
+6742,Qualification,95000,20,Michael Chang,Food & Beverage,Operations Director,Upgrade,Cold Call,CT,116
+6743,Value Proposition,420000,45,Sarah Johnson,Education,Technology Director,New Business,Email Campaign,MD,184
+6744,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6745,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6746,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6747,Decision Makers,175000,75,Sarah Johnson,Healthcare,IT Manager,New Business,Healthcare Conference,AR,87
+6748,Value Proposition,135000,40,Sarah Johnson,Hospitality,Operations Director,New Business,Trade Show,MT,156
+6749,Needs Analysis,385000,35,David Martinez,Manufacturing,Operations Director,New Business,Partner ReferralOPP-2024-0031,WA,141
+6750,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6751,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+6752,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6753,Qualification,385000,25,Michael Chang,Healthcare,IT Director,Upgrade,Healthcare Conference,SD,148
+6754,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6755,Perception Analysis,215000,20,Alex Rodriguez,Insurance,Claims Director,New Business,Cold Call,MA,102
+6756,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6757,Needs Analysis,185000,35,David Martinez,Agriculture,Executive Director,New Business,Trade Show,WA,112
+6758,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6759,Qualification,245000,30,Michael Chang,Transportation,Fare Systems Manager,New Business,Partner Referral,MI,148
+6760,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6761,Perception Analysis,155000,15,David Martinez,Hospitality,Guest Relations Director,New Business,Web Demo,WI,41
+6762,Qualification,320000,35,Sarah Johnson,Education,IT Director,New Business,Referral,NE,131
+6763,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6764,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6765,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6766,Needs Analysis,235000,30,David Martinez,Energy,Facilities Manager,New Business,Partner ReferralOpportunity_ID,DE,133
+6767,Negotiation/Review,265000,85,David Martinez,Financial Services,CTO,New Business,Webinar,MS,87
+6768,Proposal/Price Quote,350000,65,Michael Chang,Transportation,Ticketing Director,New Business,RFP,OH,114
+6769,Proposal/Price Quote,365000,65,Michael Chang,Government,Records Administrator,New Business,RFP,OH,123
+6770,Value Proposition,165000,40,Sarah Johnson,Education,Research Director,New Business,Conference,NY,143
+6771,Value Proposition,155000,45,Sarah Johnson,Food & Beverage,Operations Manager,New Business,Industry Event,WI,164
+6772,Perception Analysis,295000,20,Alex Rodriguez,Insurance,Operations Director,New Business,Cold Call,MD,201
+6773,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6774,Value Proposition,125000,45,Sarah Johnson,Retail,Marketing Director,New Business,Trade Show,PA,148
+6775,Proposal/Price Quote,235000,60,Michael Chang,Transportation,Operations Manager,New Business,Webinar,FL,96
+6776,Negotiation/Review,325000,85,David Martinez,Manufacturing,Production Director,New Business,Trade Show,VT,86
+6777,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6778,Value Proposition,175000,45,Michael Chang,Hospitality,Property Manager,New Business,Partner Referral,RI,66
+6779,Perception Analysis,345000,20,Alex Rodriguez,Utilities,Operations Director,New Business,RFP,OR,204
+6780,Decision Makers,315000,70,Sarah Johnson,Government,IT Director,New Business,RFP,MT,97
+6781,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6782,Decision Makers,285000,70,Sarah Johnson,Healthcare,Medical Director,New Business,Industry Event,KY,86
+6783,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6784,Negotiation/Review,325000,85,David Martinez,Manufacturing,Quality Manager,New Business,Partner Referral,NV,92
+6785,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6786,Negotiation/Review,355000,85,David Martinez,Manufacturing,Operations Director,New Business,Industry Event,DE,87
+6787,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6788,Needs Analysis,230000,25,Emma Wilson,Food & Beverage,Supply Chain Director,New Business,Industry Event,SD,96
+6789,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
+6790,Needs Analysis,125000,30,Alex Rodriguez,Technology,IT Director,New Business,Trade Show,NJ,15
+6791,Needs Analysis,375000,30,David Martinez,Manufacturing,Operations Director,New Business,Industry EventOPP-2024-0081,SC,158
+6792,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6793,Decision Makers,145000,70,Sarah Johnson,Sports,Performance Director,New Business,Trade Show,KS,76
+6794,Decision Makers,275000,70,Alex Rodriguez,Biotechnology,Lab Director,New Business,Trade Show,ND,97
+6795,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6796,Proposal/Price Quote,195000,65,Michael Chang,Energy,Operations Director,New Business,Webinar,LA,101
+6797,Value Proposition,185000,40,Michael Chang,Construction,CEO,New Business,LinkedIn,IL,84
+6798,Negotiation/Review,310000,85,David Martinez,Financial Services,Digital Banking Director,Upgrade,Existing Customer,CO,87
+6799,Proposal/Price Quote,210000,60,Michael Chang,Financial Services,COO,Upgrade,Referral,IN,61
+6800,Decision Makers,185000,75,Sarah Johnson,Healthcare,Patient Services Director,New Business,Healthcare Conference,MN,92
+6801,Qualification,85000,25,Michael Chang,Hospitality,IT Manager,New Business,Partner Referral,AR,128
+6802,Needs Analysis,355000,30,David Martinez,Aviation,Maintenance Director,New Business,Industry Event,IA,123
+6803,Perception Analysis,175000,15,Alex Rodriguez,Food & Beverage,Production Manager,New Business,Trade Show,NC,155
