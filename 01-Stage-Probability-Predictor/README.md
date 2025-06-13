@@ -2,7 +2,7 @@
 - Uses Regression Algorithm
 
 # NOTE
-- Closed Lost & Closed Won in train  
+- Closed Lost & Closed Won in train (100 & 0 are unaltered)
 - remaining in test
 
 # Feature Selection
