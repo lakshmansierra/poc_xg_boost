@@ -1,6 +1,10 @@
 # Stage Probability Predictor
 - Uses Regression Algorithm
 
+# NOTE
+- Closed Lost & Closed Won in train  
+- remaining in test
+
 # Feature Selection
 | Column Name        | Use?         | Reason                                                                                   |
 | ------------------ | ------------ | ---------------------------------------------------------------------------------------- |
