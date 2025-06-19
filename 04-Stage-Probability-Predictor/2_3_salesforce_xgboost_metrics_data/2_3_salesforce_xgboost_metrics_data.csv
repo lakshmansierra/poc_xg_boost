@@ -1,6 +1,2 @@
-Metric,Value
-R² Score,0.9949851036071777
-MAE,1.2929610013961792
-RMSE,1.623780379741642
-MAPE,0.033611804246902466
-accuracy (100-mape),96.63881957530975
+model_run_id,model_type,model_version,training_timestamp,dataset_size,feature_count,regression_accuracy,r2,mae,rmse,mape
+xg_stage_probability_prediction_20250619_201515,xg boost,1,06/19/2025 20:15,215,5,96.63881957530975,0.9949851036071777,1.2929610013961792,1.623780379741642,0.033611804246902466
